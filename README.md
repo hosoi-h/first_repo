@@ -1,3 +1,3 @@
 # first_repo
-はじめてのレジポトリ
+はじめてのレジポトリ \n
 hogehoge
